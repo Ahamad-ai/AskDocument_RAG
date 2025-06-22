@@ -1,6 +1,0 @@
-setup.py
-ask_document_RAG.egg-info/PKG-INFO
-ask_document_RAG.egg-info/SOURCES.txt
-ask_document_RAG.egg-info/dependency_links.txt
-ask_document_RAG.egg-info/requires.txt
-ask_document_RAG.egg-info/top_level.txt
